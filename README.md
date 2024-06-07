@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ishini 👋</h1>
-<h3 align="center">I'm currently pursuing a BSc Hons in Software Engineering and have a passion for full stack development. 💻</h3>
+<h3 align="center">I'm currently pursuing a BSc(hons) in Software Engineering and have a passion for full stack development. 💻</h3>
 
 - 💡 I enjoy learning new technologies and applying them to create innovative solutions.
 
