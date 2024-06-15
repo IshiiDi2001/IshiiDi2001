@@ -37,11 +37,12 @@
 
 Mail Me! : [amarasinghaishini@gmail.com](mailto:amarasinghaishini@gmail.com)
 
-    
+## My Github Stats :
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IshiiDi2001&layout=compact&theme=dark)
 
 ![Ishini Dimani's GitHub stats](https://github-readme-stats.vercel.app/api?username=IshiiDi2001&show_icons=true&theme=dark)
 
+![Profile Views](https://komarev.com/ghpvc/?username=IshiiDi2001&color=blue&label=PROFILE+VIEWS&style=flat-square)
 
 
 
